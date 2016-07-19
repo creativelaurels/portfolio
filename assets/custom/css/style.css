@@ -2355,6 +2355,9 @@ footer {
 .subtitle {
   color: #3498db; }
 
+.edusub {
+  color: #9b59b6; }
+
 .boxed {
   background-image: url("../images/backgrounds/dark_fabric.png"); }
 
